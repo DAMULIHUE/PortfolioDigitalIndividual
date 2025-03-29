@@ -1,0 +1,45 @@
+html, body {
+    margin:0px;
+    background-color: #0e000e;
+    color: white;
+    font-family: 'Lucida Console','Courier New', monospace;
+}
+
+header {
+    text-align: center;
+}
+
+.portEBy{
+    margin: 0px;
+    border: 25px solid black;
+    background-color: black;
+}
+
+.portfolio{
+    height: 46px;
+}
+
+.foto {
+    display:flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+.informacoes {
+    display:flex;
+    justify-content: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.textosInfo {
+    display:flex;
+    justify-content: space-between;
+    padding: 15px;
+
+    border-style:dotted
+}
+.textaoAboutMe {
+    max-width: 400px;
+}
+
