@@ -21,6 +21,7 @@ header {
     border-radius: 50%;
     object-fit: cover;
     border: 2px solid white;
+    margin-bottom: 20px;
 }
 
 .informacoes {
