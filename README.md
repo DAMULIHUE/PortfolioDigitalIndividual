@@ -1,3 +1,7 @@
-Isso é um trabalho de escola, claro q serve para mostrar 
-meu aprendizado e habilidades com html e css, 
-mas não deveria ser algo postado aqui
+Portfólio feito para um trabalho da escola. É um site simples feito
+exclusivamente para esse trabalho e não faz uso de qualquer API, somente
+de HTML, CSS e JS.
+
+HEADER DO SITE:
+
+<img source="https://github.com/user-attachments/assets/f1527bee-3360-4290-9b80-963234d96e39">
