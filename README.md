@@ -4,4 +4,4 @@ de HTML, CSS e JS.
 
 HEADER DO SITE:
 
-<img source="https://github.com/user-attachments/assets/f1527bee-3360-4290-9b80-963234d96e39">
+<img src="https://github.com/user-attachments/assets/f1527bee-3360-4290-9b80-963234d96e39">
